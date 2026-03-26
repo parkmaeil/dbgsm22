@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "D:/sw/webapp/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "D:/sw/webapp/./frontend/generated/jar-resources",
+  "staticOutput": "D:/sw/webapp/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "D:\\sw\\webapp\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "D:\\sw\\webapp\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "D:/sw/webapp/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "D:/sw/webapp/target/dev-bundle/config",
+  "jarResourcesFolder": "D:/sw/webapp/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "D:\\sw\\webapp\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
